@@ -15,3 +15,4 @@
 [11/05/21] Traffic Analysis System-progress-2021-05-11  
 [17/05/21] Scaled YOLOv4 Benchmark on RTX 2080Ti  
 [17/05/21] Traffic Analysis System-progress-2021-05-17  
+[21/05/21] Traffic Analysis System-progress-2021-05-21  
