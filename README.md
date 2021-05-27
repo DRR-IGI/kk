@@ -5,7 +5,6 @@
 [22/03/21] CCTV Darkness & Movement detection  
 [26/03/21] Vehicle Tracking (Yolo v4 + Norfair)  
 [30/03/21] YOLOv4 vs v4 Tiny  
-[01/04/21] Traffic Lanes Labeling (Proposal)  
 [01/04/21] Traffic Analysis System  
 [09/04/21] Traffic Analysis System (Update: 09/04/2021)  
 [16/04/21] Traffic Analysis System (Progress report: 16/04/2021)  
@@ -16,3 +15,4 @@
 [17/05/21] Scaled YOLOv4 Benchmark on RTX 2080Ti  
 [17/05/21] Traffic Analysis System-progress-2021-05-17  
 [21/05/21] Traffic Analysis System-progress-2021-05-21  
+[27/05/21] Traffic Analysis System - Manual  
